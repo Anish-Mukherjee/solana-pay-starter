@@ -22,7 +22,7 @@ const Product = ({ product }) => {
           {/* I'm hardcoding these for now, we'll fetch the hash from the API later*/}
           <IPFSDownload
             filename="emojis.zip"
-            hash="QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+            hash="QmRTpb7Zc2n4Q7gQfG6FzWXdaME1BraiLcRkFNRvg5APPV"
             cta="Download emojis"
           />
         </div>
